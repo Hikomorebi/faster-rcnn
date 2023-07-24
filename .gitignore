@@ -1,0 +1,4 @@
+VOCdevkit/
+backbone/mobilenet_v2.pth
+__pycache__/
+save_weights/
